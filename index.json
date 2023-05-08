@@ -1,0 +1,28 @@
+[
+    {
+        "height": 15,
+        "id" : 2,
+        "ikpu_code" : 15,
+        "in_stock": false,
+        "length": 100,
+        "name" : "name",
+        "package_code": 12,
+        "price" : "1234567.90",
+        "weight": 100,
+        "width": 100
+    },
+    {
+        "height": 15,
+        "id" : 2,
+        "ikpu_code" : 15,
+        "in_stock": false,
+        "length": 100,
+        "name" : "name",
+        "package_code": 12,
+        "price" : "1234567.90",
+        "weight": 100,
+        "width": 100
+    }
+]
+
+
